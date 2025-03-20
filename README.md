@@ -1,10 +1,10 @@
-# Template: template-basic
+# Template: template-ros
 
-This template provides a boilerplate repository for developing non-ROS software
-in Duckietown.
+This template provides a boilerplate repository
+for developing ROS-based software in Duckietown.
 
-**NOTE:** If you want to develop software that uses ROS, check out
-[this template](https://github.com/duckietown/template-ros).
+**NOTE:** If you want to develop software that does not use
+ROS, check out [this template](https://github.com/duckietown/template-basic).
 
 
 ## How to use it
